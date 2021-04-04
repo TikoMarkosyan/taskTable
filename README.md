@@ -4,7 +4,7 @@
 1) material-table npm install material-table @material-ui/core --save or
 yarn add material-table @material-ui/core
 2) redux npm install redux or yarn add redux
-3) thunk npm i redux-thunk
+3) thunk npm i redux-thunk \
 description app
 the app can create a new item for the table and delete multiply \
 itemsor one item can sort by asc and desc and search item in the table \
