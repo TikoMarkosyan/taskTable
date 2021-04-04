@@ -10,6 +10,7 @@ the app can create a new item for the table and delete multiply \
 itemsor one item can sort by asc and desc and search item in the table \
 and of course, the app has pagination.\
 ![img1](https://user-images.githubusercontent.com/45896279/113522949-815e4900-9559-11eb-998d-937b7f17907d.PNG)
+![img2](https://user-images.githubusercontent.com/45896279/113523021-1bbe8c80-955a-11eb-98cf-80dc9aa85a12.PNG)
 ---
 
 # Getting Started with Create React App
