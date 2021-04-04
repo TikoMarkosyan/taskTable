@@ -1,3 +1,17 @@
+### Table App
+---
+ # the library which used in the project 
+1) material-table npm install material-table @material-ui/core --save or
+yarn add material-table @material-ui/core
+2) redux npm install redux or yarn add redux
+3) thunk npm i redux-thunk
+description app
+the app can create a new item for the table and delete multiply \
+itemsor one item can sort by asc and desc and search item in the table \
+and of course, the app has pagination.
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +82,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ 
