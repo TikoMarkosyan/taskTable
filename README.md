@@ -5,11 +5,11 @@
 yarn add material-table @material-ui/core
 2) redux npm install redux or yarn add redux
 3) thunk npm i redux-thunk \
-description app
+## description app
 the app can create a new item for the table and delete multiply \
 itemsor one item can sort by asc and desc and search item in the table \
-and of course, the app has pagination.
-
+and of course, the app has pagination.\
+![img1](https://user-images.githubusercontent.com/45896279/113522949-815e4900-9559-11eb-998d-937b7f17907d.PNG)
 ---
 
 # Getting Started with Create React App
