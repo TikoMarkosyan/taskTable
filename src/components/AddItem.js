@@ -10,6 +10,8 @@ function AddItem({ AddTableItem }) {
     const sumbit = (event) => {
         event.preventDefault();
         if (name !== "" && name !== undefined) {
+            setName("");
+            setRating(1);
             AddTableItem({ name: name, rate:rating})
         }
     }
@@ -39,3 +41,4 @@ const mapDispatchToProps = (dispatch, ownProps) => {
 }
 
 export default connect(null, mapDispatchToProps)(AddItem);
+
